@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.14)  24 FEB 2017 19:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.14)  24 FEB 2017 21:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -358,38 +358,43 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `work.aux'.
 
  (work.tex
-<img_source/robotic.jpg, id=13, 496.85625pt x 414.54875pt>
-File: img_source/robotic.jpg Graphic file (type jpg)
+<img_source/full_hIVH7WUr.jpg, id=13, 810.02625pt x 540.0175pt>
+File: img_source/full_hIVH7WUr.jpg Graphic file (type jpg)
 
-<use img_source/robotic.jpg>
-Package pdftex.def Info: img_source/robotic.jpg used on input line 9.
-(pdftex.def)             Requested size: 496.85503pt x 414.54773pt.
- [3
+<use img_source/full_hIVH7WUr.jpg>
+Package pdftex.def Info: img_source/full_hIVH7WUr.jpg used on input line 9.
+(pdftex.def)             Requested size: 810.02426pt x 540.01617pt.
 
- <./img_source/robotic.jpg>]) [4] (main.aux
-(title_page.aux) (work.aux)) ) 
+Overfull \hbox (312.10101pt too wide) in paragraph at lines 9--13
+ [][] 
+ []
+
+[1
+
+ <./img_source/full_hIVH7WUr.jpg>]) [2] (main.aux (title_page.aux) (work.aux)) 
+) 
 Here is how much of TeX's memory you used:
- 3972 strings out of 493334
+ 3970 strings out of 493334
  51598 string characters out of 3139255
- 124819 words of memory out of 3000000
- 7397 multiletter control sequences out of 15000+200000
+ 125811 words of memory out of 3000000
+ 7395 multiletter control sequences out of 15000+200000
  14733 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,9n,26p,699b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\ilya\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\ilya\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk> <C:\Users\ilya\AppData\Local\MiKTe
-X\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <C:\Users\ilya\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\dpi600\larm1200.pk> <C:\Users\ilya
-\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\laxc1728.pk> <C:\Use
-rs\ilya\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (4 pages, 143441 bytes).
+ 40i,5n,26p,1119b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\ilya\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx
+1440.pk> <C:\Users\ilya\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi6
+00\labx1200.pk> <C:\Users\ilya\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t
+2a\dpi600\labx1728.pk> <C:\Users\ilya\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+unknown\unknown\dpi600\larm1200.pk> <C:\Users\ilya\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\lh\lh-t2a\dpi600\laxc1728.pk> <C:\Users\ilya\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb>
+Output written on main.pdf (4 pages, 146612 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
+ 271 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
